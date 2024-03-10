@@ -103,7 +103,7 @@ Prereq: create a conda environment with python 3.8, name it xinlin.
 
 ## 21) Follow instructions on how to deploy the model with ncnn.
 
-## 22) If everything works fine, send me the .param, .bin, .onnx and .pth files.
+<!--## 22) If everything works fine, send me the .param, .bin, .onnx and .pth files.-->
 
 # PART 4: DOCUMENTATION
 
